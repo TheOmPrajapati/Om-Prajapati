@@ -41,7 +41,7 @@ A digital platform connecting players with clubs for collaborations, training se
 ### 🔹 Solidify - Cybersecurity Initiative
 A cybersecurity project aimed at securing digital assets and data privacy. Currently seeking funding for further development.
 
-🔗 **[Project Details](solidify.in)** | 🛠 **Tech Used:** Python, Cybersecurity Tools, Web Security Mechanisms
+🔗 **[Project Details](https://solidify.in)** | 🛠 **Tech Used:** Python, Cybersecurity Tools, Web Security Mechanisms
 
 ---
 
