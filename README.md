@@ -61,3 +61,5 @@ A cybersecurity project aimed at securing digital assets and data privacy. Curre
 ---
 
 🌟 **"Tech is an art, and I love painting with code!"** 🎨💻
+
+<a href="https://app.daily.dev/om_prajapati"><img src="https://api.daily.dev/devcards/v2/r8sHtV5vPOMWIIaDZPqEx.png?r=9al&type=default" width="356" alt="Om Prajapati's Dev Card"/></a>
